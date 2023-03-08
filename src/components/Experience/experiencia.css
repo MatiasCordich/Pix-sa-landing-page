@@ -1,0 +1,151 @@
+.experience{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 30rem;
+    height: 70vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.experience__container{
+    background-color: #ffffff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    width: 95%;
+    height: fit-content;
+    position: absolute;
+    transform: translateY(-9rem);
+    border-radius: 1.2rem;
+    padding: 2rem;
+}
+
+.experience__container-box{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.section__title{
+    font-size: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 2rem;
+    margin-top: 2rem;
+}
+
+.section__title span{
+    position: absolute;
+    top: -2rem;
+    transform: translateY(-.07rem);
+    z-index: -2;
+    font-size: 4.7rem;
+    font-weight: 800;
+    color: #E8E2E2;
+}
+
+.experience__btn-text{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+}
+
+.experience__content,
+.img-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.img-text{
+    margin-top: 2rem;
+}
+
+.experience__content img{
+    max-width: 20rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.experience__btn-text li {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #181818;
+    border-radius: .6rem;
+    height: 5rem;
+    cursor: pointer;
+    font-weight: 600;
+    padding: 1rem;
+}
+
+.active{
+    background-color: #181818;
+    color: #ffffff;
+}
+
+.disable{
+    background-color: #ffffff;
+    color: #181818;
+}
+
+.img-text p{
+    line-height: 4rem;
+    font-weight: 500;
+}
+
+
+
+
+@media (min-width: 900px) {
+    .experience__container{
+        width: 75%;
+
+    }
+
+    .section__title span{
+        font-size: 7rem;
+        top: -3.2rem;
+    }
+
+    .section__title{
+        transform: translateY(1rem);
+        font-size: 2.5rem;
+    }
+
+    .experience__content{
+        margin-top: 2rem;
+        flex-direction: column-reverse;
+    }
+
+    .experience__btn-text,
+    .img-text{
+        flex-direction: row;
+    }
+
+    .img-text{
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    .img-text p{
+        width: 50%;
+    }
+}
+
+@media (min-width: 1440px) {
+    .experience__container{
+        width: 60%;
+    }
+}
