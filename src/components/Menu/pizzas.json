@@ -1,0 +1,52 @@
+
+[
+    {
+        "name": "Margerita",
+        "toppings": [],
+        "img": "",
+        "price": ""
+    },
+    {
+        "name": "Margerita",
+        "toppings": [],
+        "img": "",
+        "price": ""
+    },
+    {
+        "name": "Anchor-vies",
+        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "img": "",
+        "price": ""
+    },
+    {
+        "name": "Pepper-OH!-ni",
+        "toppings": ["Pepperoni"],
+        "img": "",
+        "price": ""
+    },
+    {
+        "name": "Margerita",
+        "toppings": [],
+        "img": "",
+        "price": ""
+    },
+    {
+        "name": "Margerita",
+        "toppings": [],
+        "img": "",
+        "price": ""
+    },
+    {
+        "name": "Margerita",
+        "toppings": [],
+        "img": "",
+        "price": ""
+    },
+    {
+        "name": "Margerita",
+        "toppings": [],
+        "img": "",
+        "price": ""
+    }
+
+]

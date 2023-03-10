@@ -35,9 +35,7 @@ export const Menu = () => {
                     <li>
                         <Card/>
                     </li>
-                    <li>
-                        <Card/>
-                    </li>
+
                 </ul>
             </div>
         </main>
