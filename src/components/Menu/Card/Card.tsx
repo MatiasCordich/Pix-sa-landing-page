@@ -17,13 +17,13 @@ const Card = () => {
       <ul className='card__toppings'>
         <h4>Toppings</h4>
         <li>
-          <p>topping</p>
+          <p>topping #1</p>
         </li>
         <li>
-          <p>topping</p>
+          <p>topping #2</p>
         </li>
         <li>
-          <p>topping</p>
+          <p>topping #3</p>
         </li>
       </ul>
       <div className='card__price'>
