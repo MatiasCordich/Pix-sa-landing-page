@@ -2,51 +2,50 @@
 [
     {
         "name": "Margerita",
-        "toppings": [],
-        "img": "",
-        "price": ""
-    },
-    {
-        "name": "Margerita",
-        "toppings": [],
-        "img": "",
-        "price": ""
-    },
-    {
-        "name": "Anchor-vies",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
-        "img": "",
-        "price": ""
-    },
-    {
-        "name": "Pepper-OH!-ni",
-        "toppings": ["Pepperoni"],
-        "img": "",
-        "price": ""
+        "img": "/src/assets/img-04.png",
+        "price": "12.54"
     },
     {
         "name": "Margerita",
-        "toppings": [],
-        "img": "",
-        "price": ""
+        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "img": "/src/assets/img-04.png",
+        "price": "8.54"
     },
     {
         "name": "Margerita",
-        "toppings": [],
-        "img": "",
-        "price": ""
+        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "img": "/src/assets/img-04.png",
+        "price": "8.54"
     },
     {
         "name": "Margerita",
-        "toppings": [],
-        "img": "",
-        "price": ""
+        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "img": "/src/assets/img-04.png",
+        "price": "8.54"
     },
     {
         "name": "Margerita",
-        "toppings": [],
-        "img": "",
-        "price": ""
+        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "img": "/src/assets/img-04.png",
+        "price": "8.54"
+    },
+    {
+        "name": "Margerita",
+        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "img": "/src/assets/img-04.png",
+        "price": "8.54"
+    },
+    {
+        "name": "Margerita",
+        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "img": "/src/assets/img-04.png",
+        "price": "8.54"
+    },
+    {
+        "name": "Margerita",
+        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "img": "/src/assets/img-04.png",
+        "price": "8.54"
     }
-
 ]

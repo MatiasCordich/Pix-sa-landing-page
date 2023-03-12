@@ -1,4 +1,5 @@
 import Card from './Card/Card'
+import pizzaJson from './pizzas.json'
 import './menu.css'
 
 export const Menu = () => {
@@ -11,30 +12,13 @@ export const Menu = () => {
                 </h2>
                 <ul className='menu__cards'>
                     <li>
-                        <Card/>
-                    </li>
-                    <li>
-                        <Card/>
-                    </li>
-                    <li>
-                        <Card/>
+                        <Card
+                            title={pizzaJson[0].name}
+                            img={pizzaJson[0].img}
+                            toppings={pizzaJson[0].toppings}
+                            price={pizzaJson[0].price}/>
                     </li>
                     
-                    <li>
-                        <Card/>
-                    </li>
-                    <li>
-                        <Card/>
-                    </li>
-                    <li>
-                        <Card/>
-                    </li>
-                    <li>
-                        <Card/>
-                    </li>
-                    <li>
-                        <Card/>
-                    </li>
 
                 </ul>
             </div>

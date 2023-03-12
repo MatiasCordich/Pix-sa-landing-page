@@ -1,34 +1,42 @@
 import img07 from '../../../assets/img-04.png'
-import blob from '../../../assets/blob.svg'
 import './card.css'
 
-const Card = () => {
+type PizzaProps = {
+  title: string,
+  img: string,
+  toppings: string[],
+  price: string
+}
+
+const Card= (props: PizzaProps) => {
+
+  const { title, img, toppings, price} = props
   return (
     <div className='card'>
       <h2 className='section__title-2'>
-        Margerita
-        <span className='section__subtitle shadow'>Margerita</span>
+        {title}
+        <span className='section__subtitle shadow'>{title}</span>
       </h2>
       <div className='card__images'>
-        <img src={img07} alt="pizza-img" />
+        <img src={img} alt="pizza-img" />
         <div className='arrow'></div>
       </div>
 
       <ul className='card__toppings'>
         <h4>Toppings</h4>
         <li>
-          <p>topping #1</p>
+          <p>{toppings[0]}</p>
         </li>
         <li>
-          <p>topping #2</p>
+          <p>{toppings[1]}</p>
         </li>
         <li>
-          <p>topping #3</p>
+          <p>{toppings[2]}</p>
         </li>
       </ul>
       <div className='card__price'>
         <h4>Price</h4>
-        <p>$ 8.54</p>
+        <p>$ {price.toString()}</p>
       </div>
     </div>
   )
