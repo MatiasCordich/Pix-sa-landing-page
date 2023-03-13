@@ -11,14 +11,21 @@ export const Menu = () => {
                     <span className='section__subtitle m-2'>Menu</span>
                 </h2>
                 <ul className='menu__cards'>
-                    <li>
-                        <Card
-                            title={pizzaJson[0].name}
-                            img={pizzaJson[0].img}
-                            toppings={pizzaJson[0].toppings}
-                            price={pizzaJson[0].price}/>
-                    </li>
-                    
+                    {
+                        pizzaJson.map((pizza) => {
+                            return (
+                                <li key={pizza.id}>
+                                    <Card
+                                        title={pizza.name}
+                                        img={pizza.img}
+                                        toppings={pizza.toppings}
+                                        price={pizza.price} />
+                                </li>
+
+                            )
+
+                        })
+                    }
 
                 </ul>
             </div>

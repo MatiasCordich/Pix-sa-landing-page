@@ -1,51 +1,60 @@
 
 [
     {
+        "id": 1,
         "name": "Margerita",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
         "img": "/src/assets/img-04.png",
         "price": "12.54"
     },
     {
+        "id": 2,
         "name": "Margerita",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
-        "img": "/src/assets/img-04.png",
-        "price": "8.54"
+        "img": "/src/assets/img-05.png",
+        "price": "12.54"
     },
     {
+        "id": 3,
         "name": "Margerita",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
-        "img": "/src/assets/img-04.png",
-        "price": "8.54"
+        "img": "/src/assets/img-06.png",
+        "price": "12.54"
     },
     {
+        "id": 4,
         "name": "Margerita",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
-        "img": "/src/assets/img-04.png",
-        "price": "8.54"
+        "img": "/src/assets/img-07.png",
+        "price": "12.54"
     },
     {
+        "id": 5,
         "name": "Margerita",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
-        "img": "/src/assets/img-04.png",
-        "price": "8.54"
+        "img": "/src/assets/img-08.png",
+        "price": "12.54"
     },
     {
+        "id": 6,
         "name": "Margerita",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
-        "img": "/src/assets/img-04.png",
-        "price": "8.54"
+        "img": "/src/assets/img-09.png",
+        "price": "12.54"
     },
     {
+        "id": 7,
         "name": "Margerita",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
-        "img": "/src/assets/img-04.png",
-        "price": "8.54"
+        "img": "/src/assets/img-10.png",
+        "price": "12.54"
     },
     {
+        "id": 8,
         "name": "Margerita",
         "toppings": ["Anchovies", "Green pepper", "Olives"],
-        "img": "/src/assets/img-04.png",
-        "price": "8.54"
+        "img": "/src/assets/img-11.png",
+        "price": "12.54"
     }
+   
 ]
