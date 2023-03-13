@@ -2,59 +2,59 @@
 [
     {
         "id": 1,
-        "name": "Margerita",
-        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "name": "Mu-shhh!!rom",
+        "toppings": ["Tomato", "Mushrooms", "Pepper"],
         "img": "/src/assets/img-04.png",
-        "price": "12.54"
+        "price": "12.50"
     },
     {
         "id": 2,
-        "name": "Margerita",
-        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "name": "Meaty",
+        "toppings": ["Meat", "Onion", "Chickpeas"],
         "img": "/src/assets/img-05.png",
-        "price": "12.54"
+        "price": "11.00"
     },
     {
         "id": 3,
-        "name": "Margerita",
-        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "name": "Put-anesca",
+        "toppings": ["Black Olives", "Tomato", "Mushrooms"],
         "img": "/src/assets/img-06.png",
-        "price": "12.54"
+        "price": "15.00"
     },
     {
         "id": 4,
-        "name": "Margerita",
-        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "name": "Cucumbizza",
+        "toppings": ["Cucumber", "Pickles", "Tomato"],
         "img": "/src/assets/img-07.png",
-        "price": "12.54"
+        "price": "10.00"
     },
     {
         "id": 5,
-        "name": "Margerita",
-        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "name": "Pepper-Ohni!",
+        "toppings": ["Cheese", "Pepperoni", "Black Pepper (optional)"],
         "img": "/src/assets/img-08.png",
-        "price": "12.54"
+        "price": "9.00"
     },
     {
         "id": 6,
-        "name": "Margerita",
-        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "name": "Fishy",
+        "toppings": ["Anchovies", "Green pepper", "Stuffed olives"],
         "img": "/src/assets/img-09.png",
-        "price": "12.54"
+        "price": "10.50"
     },
     {
         "id": 7,
-        "name": "Margerita",
-        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "name": "Baconizza",
+        "toppings": ["Bacon", "Mixed Olives", "Beans"],
         "img": "/src/assets/img-10.png",
-        "price": "12.54"
+        "price": "11.00"
     },
     {
         "id": 8,
-        "name": "Margerita",
-        "toppings": ["Anchovies", "Green pepper", "Olives"],
+        "name": "Summertime",
+        "toppings": ["Chives", "Green pepper", "Black olives"],
         "img": "/src/assets/img-11.png",
-        "price": "12.54"
+        "price": "9.50"
     }
    
 ]
