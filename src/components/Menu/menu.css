@@ -20,7 +20,7 @@
     flex-wrap: wrap;
     gap: 5rem;
     margin: 0 auto;
-    margin-top: 10rem;
+    margin-top: 12rem;
 }
 
 @media (min-width: 600px) {
