@@ -34,3 +34,10 @@ li{
 img{
   max-width: 100%;
 }
+button{
+  border: none;
+}
+
+input{
+  outline: none;
+}
