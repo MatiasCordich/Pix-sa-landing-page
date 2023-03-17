@@ -26,6 +26,7 @@
 @media (min-width: 600px) {
     .menu__cards{
         flex-direction: row;
+        margin:  0 auto;
     }
 }
 
